@@ -1,6 +1,6 @@
 # The Fizz Programming Language
 
-Fizz is a General Purpose Programming Language by similar to C++.
+Fizz is a General Purpose Programming Language similar to C++.
 
 ## Syntax
 ```c++
